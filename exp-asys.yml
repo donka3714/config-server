@@ -1,0 +1,4 @@
+message: Message from yml
+auth-demo:
+	loginurl: loginurl.com
+	authurl: authurl.com
